@@ -77,8 +77,10 @@ void free_family(person *p)
 {
     // TODO: Handle base case'
 		if (p->parents[0] == NULL)
+		{
 			free(p);
-		return ;
+			return ;
+		}
 		free_family(p->parents[0]);
 		free_family(p->parents[1]);
 		
