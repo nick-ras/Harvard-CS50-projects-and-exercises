@@ -17,9 +17,13 @@ c = conn.cursor()
 
 # print(emp1.first)
 
-# c.execute("INSERT INTO employees VALUES (:first, :last, :pay)", {'first': 'Helmut', 'last': 'Heimut', 'pay': 30000})
+
 
 # conn.commit()
+
+# def get_emp_by_name(emp):
+# 	with conn:
+# 		c.execute("INSERT INTO employees VALUES (:first, :last, :pay)", {'first': 'Helmut', 'last': 'Heimut', 'pay': 30000})
 
 def get_emp_by_name(lastname):
 	with conn:
