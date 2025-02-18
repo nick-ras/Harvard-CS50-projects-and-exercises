@@ -9,8 +9,7 @@ This project focuses on simulating a family tree using object-oriented programmi
 
 To run the project:
 ```bash
-make inheritance
-./inheritance
+gcc inheritance.c && ./a.out
 ```
 
 ### **Songs**
