@@ -13,7 +13,7 @@ make inheritance
 ./inheritance
 ```
 
-Songs
+### **Songs**
 This project involved creating a program that plays songs based on user input. The project utilized file handling, arrays, and functions to provide an interactive music experience.
 
 To run the project:
