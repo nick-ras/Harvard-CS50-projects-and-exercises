@@ -14,7 +14,7 @@ make inheritance
 ```
 
 ### **Songs**
-This project involved creating a program that plays songs based on user input. The project utilized file handling, arrays, and functions to provide an interactive music experience.
+This project involved creating a program that stores employee information in database and retrieves it. Name might be a bit off i know.
 
 To run the project:
 
