@@ -19,5 +19,5 @@ This project involved creating a program that stores employee information in dat
 To run the project:
 
 ```bash
-make songs
-./songs
+cd songs
+pythonsql.py
